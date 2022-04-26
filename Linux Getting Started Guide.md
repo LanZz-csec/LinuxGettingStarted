@@ -1,3 +1,3 @@
-## Linux Getting Started Guide
+<h1 align="center">Linux Getting Started Guide</h1>
 
-[![N|Solid](https://i.hizliresim.com/mdu90nn.png)](https://discord.gg/5sYSzWQJ3Z)
+[![N|dc](https://i.hizliresim.com/3vwdudh.png)](https://discord.gg/5sYSzWQJ3Z)
