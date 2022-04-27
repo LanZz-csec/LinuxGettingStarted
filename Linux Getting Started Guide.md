@@ -27,7 +27,7 @@
   - [./](#dotslash)
 
 <br>
-
+</details>
 # Simple Linux Commands
 
 ## File/Folder operations
